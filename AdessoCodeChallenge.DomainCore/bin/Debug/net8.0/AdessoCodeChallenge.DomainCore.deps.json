@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AdessoCodeChallenge.DomainCore/1.0.0": {
+        "runtime": {
+          "AdessoCodeChallenge.DomainCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdessoCodeChallenge.DomainCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

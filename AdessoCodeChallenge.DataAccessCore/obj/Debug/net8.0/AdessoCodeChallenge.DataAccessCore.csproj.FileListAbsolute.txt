@@ -1,0 +1,17 @@
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DataAccessCore\bin\Debug\net8.0\AdessoCodeChallenge.DataAccessCore.deps.json
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DataAccessCore\bin\Debug\net8.0\AdessoCodeChallenge.DataAccessCore.runtimeconfig.json
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DataAccessCore\bin\Debug\net8.0\AdessoCodeChallenge.DataAccessCore.dll
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DataAccessCore\bin\Debug\net8.0\AdessoCodeChallenge.DataAccessCore.pdb
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DataAccessCore\bin\Debug\net8.0\AdessoCodeChallenge.DomainCore.dll
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DataAccessCore\bin\Debug\net8.0\AdessoCodeChallenge.DomainCore.pdb
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DataAccessCore\obj\Debug\net8.0\AdessoCodeChallenge.DataAccessCore.csproj.AssemblyReference.cache
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DataAccessCore\obj\Debug\net8.0\AdessoCodeChallenge.DataAccessCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DataAccessCore\obj\Debug\net8.0\AdessoCodeChallenge.DataAccessCore.AssemblyInfoInputs.cache
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DataAccessCore\obj\Debug\net8.0\AdessoCodeChallenge.DataAccessCore.AssemblyInfo.cs
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DataAccessCore\obj\Debug\net8.0\AdessoCodeChallenge.DataAccessCore.csproj.CoreCompileInputs.cache
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DataAccessCore\obj\Debug\net8.0\AdessoCodeChallenge.DataAccessCore.csproj.CopyComplete
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DataAccessCore\obj\Debug\net8.0\AdessoCodeChallenge.DataAccessCore.dll
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DataAccessCore\obj\Debug\net8.0\refint\AdessoCodeChallenge.DataAccessCore.dll
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DataAccessCore\obj\Debug\net8.0\AdessoCodeChallenge.DataAccessCore.pdb
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DataAccessCore\obj\Debug\net8.0\AdessoCodeChallenge.DataAccessCore.genruntimeconfig.cache
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DataAccessCore\obj\Debug\net8.0\ref\AdessoCodeChallenge.DataAccessCore.dll

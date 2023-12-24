@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cvYzWvpKhWwi9y7NYFUV1AtYIzx7GtaI3O51ap8xinIv8LqlUYzDybiw0VhDq74yJJfaRNM3RRlZIifBm27log==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Freelancer\\AdessoCodeChallenge\\AdessoCodeChallenge.DomainCommonCore\\AdessoCodeChallenge.DomainCommonCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mekocak\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\mekocak\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\mekocak\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\mekocak\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\mekocak\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\mekocak\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

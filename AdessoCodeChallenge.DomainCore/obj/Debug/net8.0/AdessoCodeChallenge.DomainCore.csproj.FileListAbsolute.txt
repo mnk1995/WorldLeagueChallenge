@@ -1,0 +1,11 @@
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCore\bin\Debug\net8.0\AdessoCodeChallenge.DomainCore.deps.json
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCore\bin\Debug\net8.0\AdessoCodeChallenge.DomainCore.dll
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCore\bin\Debug\net8.0\AdessoCodeChallenge.DomainCore.pdb
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCore\obj\Debug\net8.0\AdessoCodeChallenge.DomainCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCore\obj\Debug\net8.0\AdessoCodeChallenge.DomainCore.AssemblyInfoInputs.cache
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCore\obj\Debug\net8.0\AdessoCodeChallenge.DomainCore.AssemblyInfo.cs
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCore\obj\Debug\net8.0\AdessoCodeChallenge.DomainCore.csproj.CoreCompileInputs.cache
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCore\obj\Debug\net8.0\AdessoCodeChallenge.DomainCore.dll
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCore\obj\Debug\net8.0\refint\AdessoCodeChallenge.DomainCore.dll
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCore\obj\Debug\net8.0\AdessoCodeChallenge.DomainCore.pdb
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCore\obj\Debug\net8.0\ref\AdessoCodeChallenge.DomainCore.dll

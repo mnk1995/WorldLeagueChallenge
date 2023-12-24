@@ -1,0 +1,15 @@
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCommonCore\bin\Debug\net8.0\AdessoCodeChallenge.DomainCommonCore.deps.json
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCommonCore\bin\Debug\net8.0\AdessoCodeChallenge.DomainCommonCore.dll
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCommonCore\bin\Debug\net8.0\AdessoCodeChallenge.DomainCommonCore.pdb
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCommonCore\bin\Debug\net8.0\AdessoCodeChallenge.DomainCore.dll
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCommonCore\bin\Debug\net8.0\AdessoCodeChallenge.DomainCore.pdb
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCommonCore\obj\Debug\net8.0\AdessoCodeChallenge.DomainCommonCore.csproj.AssemblyReference.cache
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCommonCore\obj\Debug\net8.0\AdessoCodeChallenge.DomainCommonCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCommonCore\obj\Debug\net8.0\AdessoCodeChallenge.DomainCommonCore.AssemblyInfoInputs.cache
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCommonCore\obj\Debug\net8.0\AdessoCodeChallenge.DomainCommonCore.AssemblyInfo.cs
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCommonCore\obj\Debug\net8.0\AdessoCodeChallenge.DomainCommonCore.csproj.CoreCompileInputs.cache
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCommonCore\obj\Debug\net8.0\AdessoCodeChallenge.DomainCommonCore.csproj.CopyComplete
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCommonCore\obj\Debug\net8.0\AdessoCodeChallenge.DomainCommonCore.dll
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCommonCore\obj\Debug\net8.0\refint\AdessoCodeChallenge.DomainCommonCore.dll
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCommonCore\obj\Debug\net8.0\AdessoCodeChallenge.DomainCommonCore.pdb
+C:\Projects\Freelancer\AdessoCodeChallenge\AdessoCodeChallenge.DomainCommonCore\obj\Debug\net8.0\ref\AdessoCodeChallenge.DomainCommonCore.dll
